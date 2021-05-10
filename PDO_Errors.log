@@ -1,0 +1,7 @@
+2021-05-10 05:05:11 :: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens: 654
+2021-05-10 05:05:07 :: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '0' for key 'PRIMARY': 482
+2021-05-10 06:05:16 :: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'status' in 'where clause': 310
+2021-05-10 06:05:18 :: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''1"' at line 1: 310
+2021-05-10 06:05:03 :: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''1"' at line 1: 310
+2021-05-10 06:05:22 :: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''1"' at line 1: 310
+2021-05-10 06:05:29 :: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens: 482
